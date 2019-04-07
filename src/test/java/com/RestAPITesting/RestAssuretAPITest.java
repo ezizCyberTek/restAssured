@@ -9,7 +9,7 @@ import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;
 //edited
 public class RestAssuretAPITest {
-	
+//edited	
 	@BeforeClass
 	public void setUp() {
 		RestAssured.baseURI = "https://batch8-api-site.dev.cc/wp-json";
